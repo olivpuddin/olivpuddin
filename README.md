@@ -1,7 +1,7 @@
 ### Olá! Me chamo Bruna Oliveira.
 
 Sou estudante de Sistemas de Informação.
-- Atualmente, me dedico à HTML, CSS e JavaScript.
+- Atualmente, me dedico à JavaScript.
 - 📫 Contate-me no e-mail: brunabzoliv@gmail.com
 
 <div align="center">
@@ -22,7 +22,7 @@ Sou estudante de Sistemas de Informação.
     
  <a href="https://discord.gg/NQmaVgaA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:brunabzoliv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/bruna-oliveira-05682b229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/olivpuddin/olivpuddin/blob/output/github-contribution-grid-snake.svg)
  
