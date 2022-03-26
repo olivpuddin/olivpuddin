@@ -1,5 +1,5 @@
 <h1 align="center">Hi ;) I'm Bruna Oliveira.</h1>
-<h3 align="center">I am student of Information Systems at the University.</h3>
+<h3 align="center">I am a web development student and passionate about learning.</h3>
 
 - Contact me in: **brunabzoliv@gmail.com**
 
